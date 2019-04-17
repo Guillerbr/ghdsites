@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Mobirise Free Bootstrap Template, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="GHD SITES E SISTEMAS ">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/discover-mobile-350x350-16.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&amp;subset=cyrillic,latin,greek,vietnamese">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/socicon.min.css">
+  <link rel="stylesheet" href="assets/mobirise/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise-slider/style.css">
+  <link rel="stylesheet" href="assets/mobirise-gallery/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+</head>
+<body>
+
+<section class="mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--transparent mbr-navbar--sticky mbr-navbar--auto-collapse" id="menu-74">
+    <div class="mbr-navbar__section mbr-section">
+        <div class="mbr-section__container container">
+            <div class="mbr-navbar__container">
+                <div class="mbr-navbar__column mbr-navbar__column--s mbr-navbar__brand">
+                    <span class="mbr-navbar__brand-link mbr-brand mbr-brand--inline">
+                       
+
+
+                       <span class="mbr-brand__logo"><a href="index.html"><img class="mbr-navbar__brand-img mbr-brand__img" src="assets/images/discover-mobile-350x350-53.png" alt="Mobirise"></a></span>
+                        
+                        
+                        
+                        
+                        
+                        <span class="mbr-brand__name"><a class="mbr-brand__name text-white" href="http://ghdsites.net/">GHD SISTEMAS WEB</a></span>
+                    </span>
+                </div>
+                
+                
+                
+                <div class="mbr-navbar__hamburger mbr-hamburger text-white"><span class="mbr-hamburger__line"></span></div>
+                <div class="mbr-navbar__column mbr-navbar__menu">
+                    <nav class="mbr-navbar__menu-box mbr-navbar__menu-box--inline-right">
+                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.html">INÍCIO</a></li> <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="contato.html">CONTATO</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="blog.html">BLOG</a></li> <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="tel.html">LIGAMOS PARA VOCÊ</a></li></ul></div>
+                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-inverse mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__btn btn btn-default" href="contato.html">Peça Agora!</a></li></ul></div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted mbr-parallax-background mbr-after-navbar" id="header1-73" style="background-image: url(assets/images/macbook-926425-1920-1920x1279-92.jpg);">
+    <div class="mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-left">
+        <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(76, 105, 114);"></div>
+        <div class="mbr-box__container mbr-section__container container">
+            <div class="mbr-box mbr-box--stretched"><div class="mbr-box__magnet mbr-box__magnet--center-left">
+                <div class="row"><div class=" col-sm-6">
+                    <div class="mbr-hero animated fadeInUp">
+                        <h1 class="mbr-hero__text">GHD SISTEMAS WEB</h1>
+                        <p class="mbr-hero__subtext">
+                        <br>
+                        <br>
+                        
+                        
+                        
+                        Nossa agência trabalha com projetos web personalizados que se adaptam as necessidades do seu negócio. Visando sempre respeitar a identidade do cliente,
+                        nossa agência realiza o projeto respeitando o projeto inicial e orientando com as melhores práticas de desenvolvimento para que o projeto além de ter a
+                        personalidade do seu negócio, também seja funcional para o usuário.
+
+                        Informações atualizadas e de acordo com as estratégias elaboradas! <br></p>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="mbr-buttons btn-inverse mbr-buttons--left"><a class="mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning" href="contato.html"> O QUE VOCÊ PRECISA?</a> 
+                    <a class="mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay" href="contato.html">ALGUMAS PROPOSTAS</a></div>
+                </div></div>
+            </div></div>
+        </div>
+        <div class="mbr-arrow mbr-arrow--floating text-center">
+            <div class="mbr-section__container container">
+                <a class="mbr-arrow__link" href="#features1-75"><i class="glyphicon glyphicon-menu-down"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content-2 col-4" id="features1-75" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="container">
+        <div class="row">
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/google-slides-350x350-16.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>Sua Necessidade</h3>
+                            <p>
+                            Oferecemos também uma gama de estratégias para que o seu projeto final seja um case de sucesso. Temos a visão 360º para elaborar uma consultoria digital.</p>
+                        </div>
+                        <p class="group"><a href="contato.html" class="btn btn-default">Entre</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/reminders-350x350-18.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>Formas de Contato</h3>
+                            <p>Nessa primeira etapa você nos explica o seu projeto, suas expectativas e metas, todas as necessidades do desenvolvimento do seu site ou sistema web. </p>
+                        </div>
+                        
+                        <p class="group"><a href="contato.html" class="btn btn-default">Entre</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/photos-350x350-95.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>Lindos Sites</h3>
+                            <p>Você tem certeza é isso mesmo o que você quer? Sem problemas! Nós te ajudamos a colocar as suas idéias em ordem,antes de iniciarmos essa etapa. </p>
+                        </div>
+                        <p class="group"><a href="http://ghdsites.net/vendascarro/Script/" class="btn btn-default">Veja</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/kindle-350x350-47.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>Funciona em Celulares</h3>
+                            <p>O Responsive Web Design é uma das soluções técnicas onde programar um site de forma que os elementos que o compõem se adaptem automaticamente.</p>
+                        </div>
+                        <p class="group"><a href="http://ghdsites.net/vendascarro/Script/" class="btn btn-default">Veja</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted mbr-parallax-background" id="header1-76" style="background-image: url(assets/images/iphone-926663-1920-1920x1280-94.jpg);">
+    <div class="mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-left">
+        <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(41, 105, 176);"></div>
+        <div class="mbr-box__container mbr-section__container container">
+            <div class="mbr-box mbr-box--stretched"><div class="mbr-box__magnet mbr-box__magnet--center-left">
+                <div class="row"><div class=" col-sm-6">
+                    <div class="mbr-hero animated fadeInUp">
+                        <h1 class="mbr-hero__text">GHD SISTEMAS WEB</h1>
+                        <br>
+                        <p class="mbr-hero__subtext">Nosso Objetivo,Criar comunicação diferenciada e ainda assim de acordo com as necessidades, público, e verba de cada cliente é um dos maiores desafios que o mercado enfrenta nos dias de hoje. Para superar esse desafio e diferenciar a sua comunicação no cenário atual,
+                        fornecemos todas as ferramentas necessárias ao desenvolvimento do seu website e seu sistema web...<br></p>
+                    </div>
+                    
+
+                    <div class="mbr-buttons btn-inverse mbr-buttons--left"><a class="mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info" href="http://ghdsites.net/vendascarro/Script/">VEJA MODELO 1</a> <a class="mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay" href="http://ghdsites.net/vendacarro/SCRIPT/">VEJA MODELO 2</a></div>
+                </div></div>
+            </div></div>
+        </div>
+        
+
+
+
+
+        <div class="mbr-arrow mbr-arrow--floating text-center">
+            <div class="mbr-section__container container">
+                <a class="mbr-arrow__link" href="#features1-77"><i class="glyphicon glyphicon-menu-down"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content-2 col-4" id="features1-77" style="background-color: rgb(28, 73, 110);">
+    
+    <div class="container">
+        <div class="row">
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/maps-350x350-26.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>GOOGLE MAPS</h3>
+                            <p>Seu site terá todas as funcionalidades que o aplicativo Google Maps,fazendo com que sua localização seja facilmente encontrada por seu cliente. </p>
+                        </div>
+                        <p class="group"><a href="https://www.google.com.br/maps" class="btn btn-info">GOOGLE MAPS</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/facebook-350x350-71.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>MÍDIAS SOCIAIS</h3>
+                            <p>Seu site com as principais redes sociais do mundo,uso desses aplicativos que permitem que o cliente siga sua marca nas principais mídias sociais.</p>
+                        </div>
+                        <p class="group"><a href="https://facebook.com" class="btn btn-info">FACEBOOK</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/bytafont-350x350-38.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>GOOGLE FONTS</h3>
+                            <p>Os mais elegantes e avançados sistema de sites,bonitos com lindos aplicativos que possibilitam facilidade, simplicidade e qualidade ao seu cliente . </p>
+                        </div>
+                        <p class="group"><a href="https://www.google.com/fonts/" class="btn btn-info">GOOGLE FONTS</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/youtube-350x350-69.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>VÍDEOS YOUTUBE</h3>
+                            <p>Tenha os vídeos do seu canal no Youtube,conecte seu negócio ao mundo expandindo a capacidade de seu negócio gerar valor a todos,entre conosco nessa. </p>
+                        </div>
+                        <p class="group"><a href="https://youtube.com" class="btn btn-info">YOUTUBE</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-slider mbr-section mbr-section--no-padding carousel slide" data-ride="carousel" data-wrap="true" data-interval="5000" id="slider2-78">
+    <div class="mbr-section__container container article-slider mbr-section__container--isolated">
+        <div class=" col-sm-8 col-sm-offset-2">
+            <ol class="carousel-indicators">
+                <li data-app-prevent-settings="" data-target="#slider2-78" class="active" data-slide-to="0"></li><li data-app-prevent-settings="" data-target="#slider2-78" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#slider2-78" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                
+                
+<div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center active">
+                    <div class="mbr-box__magnet">
+                        <div>
+                        
+
+                         
+
+                          <img src="assets/images/print1.jpg">
+                           
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    
+                                    
+                                </div>
+                                
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center">
+                    <div class="mbr-box__magnet">
+                        <div>
+                           
+
+                           
+
+                            <img src="assets/images/print2.jpg">
+                            
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    
+                                    
+                                </div>
+                                
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center">
+                    <div class="mbr-box__magnet">
+                        <div>
+                           
+
+                          
+
+                           <img src="assets/images/print3.jpg">
+                           
+                            <div class="row"><div class="col-sm-8 col-sm-offset-2">
+                                <div class="mbr-hero">
+                                    
+                                    
+                                </div>
+                                
+                            </div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+            
+            <a data-app-prevent-settings="" class="left carousel-control" role="button" data-slide="prev" href="#slider2-78">
+                <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a data-app-prevent-settings="" class="right carousel-control" role="button" data-slide="next" href="#slider2-78">
+                <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box5-79" style="background-image: url(assets/images/iphone-6-458150-1920-1920x1285-73.jpg);">
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 168, 133);"></div>
+    <div class="mbr-section__container mbr-section__container--isolated container">
+        <div class="row">
+            <div class="mbr-box mbr-box--fixed mbr-box--adapted">
+                <div class="mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6">
+                    <figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width"><img class="mbr-figure__img" src="assets/images/iphone-1032784-1920-1920x1440-16.jpg"></figure>
+                </div>
+                <div class="mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 mbr-section__right">
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
+                            <h3 class="mbr-header__text">GESTÃO DE CONTEÚDO</h3>
+                            
+                        </div>
+                    </div>
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p>Desde seu surgimento, a Internet vem atraindo a atenção de um número cada vez maior de pessoas.
+                        Segundo o Ibope eRatings, só no Brasil são mais de 17 milhões de internautas que passam, em média, 16 horas conectados. Cada um com seus interesses e objetivos, mas todos
+                        grudados na rede mundial de computadores.São muitas as possibilidades pois essa atividade envolve múltiplas oportunidades, como: Criação, redação, fotografia, programação 
+                        e planejamento UX. Todas direcionadas ao portal / hotsite e executadas de acordo com o briefing do cliente.&nbsp;</p></div>
+                    </div>
+                    <div class="mbr-section__container">
+                        <div class="mbr-buttons mbr-buttons--auto-align btn-inverse"><a class="mbr-buttons__btn btn btn-lg btn-default" href="contato.html"><EM>ENTRE EM CONTATO</EM></a></div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content-2 col-3" id="features1-80" style="background-color: rgb(239, 239, 239);">
+    
+    <div class="container">
+        <div class="row">
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/phone-350x350-12.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>MOBILE-CELULARES</h3>
+                            <!--<p>Sed vel vulputate lacus. Nulla et fringilla turpis. Etiam non urna magna. Fusce rutrum nec eros id dapibus. In tincidunt mi eget molestie condimentum.</p>  -->
+                            <p>Desenvolvimento de Sites, criar Hotsites, Blogs, Portais e Sistemas Cloud. Trabalhamos com plataformas Open Source, adequando-se à  cada cliente.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/anemone-350x350-67.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>CRIAÇÃO DIGITAL</h3>
+                        <!-- Gallery     <p>Sed vel vulputate lacus. Nulla et fringilla turpis. Etiam non urna magna. Fusce rutrum nec eros id dapibus. In tincidunt mi eget molestie condimentum.</p>--> 
+                            <p> É um site adaptado para responder melhor a uma interface mobile seja um tablet ou smartphone, desenvolvidos ao redor das tecnologias da internet.</p> 
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/clear-350x350-99.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>EFICIENTE</h3>
+                            
+                            <p>Conheça nossos recentes casos de sucesso. Entenda um pouco do nosso trabalho e deixe-nos mostrar como podemos ajudá-lo no diferencial competitivo. </p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="msg-box3-81" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="mbr-section__container container mbr-section__container--isolated">
+        <div class="mbr-header mbr-header--wysiwyg row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <h3 class="mbr-header__text">CRIAÇÃO DE SITES</h3>
+                
+            </div>
+        </div>
+    </div>
+    
+    
+</section>
+
+<section class="mbr-gallery mbr-section mbr-section--no-padding" id="gallery1-82" style="background-color: rgb(239, 239, 239);">
+    <!-- Gallery -->
+    <div class=" mbr-gallery-layout-default">
+        <div>
+            <div class="row mbr-gallery-row no-gutter">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mbr-gallery-item">
+                    <a href="#lb-gallery1-82" data-slide-to="0" data-toggle="modal">
+                        <img alt="" src="assets/images/print4.jpg">
+                        <span class="icon glyphicon glyphicon-zoom-in"></span>
+                    </a>
+                </div><div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mbr-gallery-item">
+                    <a href="#lb-gallery1-82" data-slide-to="1" data-toggle="modal">
+                        <img alt="" src="assets/images/print5.jpg">
+                        <span class="icon glyphicon glyphicon-zoom-in"></span>
+                    </a>
+                </div><div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mbr-gallery-item">
+                    <a href="#lb-gallery1-82" data-slide-to="2" data-toggle="modal">
+                        <img alt="" src="assets/images/print6.jpg">
+                        <span class="icon glyphicon glyphicon-zoom-in"></span>
+                    </a>
+                </div><div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 mbr-gallery-item">
+                    <a href="#lb-gallery1-82" data-slide-to="3" data-toggle="modal">
+                        <img alt="" src="assets/images/print7.jpg">
+                        <span class="icon glyphicon glyphicon-zoom-in"></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+
+    <!-- Lightbox -->
+    <div data-app-prevent-settings="" class="mbr-slider modal fade carousel slide" tabindex="-1" data-keyboard="true" data-interval="false" id="lb-gallery1-82">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <ol class="carousel-indicators">
+                        <li data-app-prevent-settings="" data-target="#lb-gallery1-82" data-slide-to="0"></li><li data-app-prevent-settings="" data-target="#lb-gallery1-82" data-slide-to="1"></li><li data-app-prevent-settings="" data-target="#lb-gallery1-82" data-slide-to="2"></li><li data-app-prevent-settings="" data-target="#lb-gallery1-82" class=" active" data-slide-to="3"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="item">
+                            <img alt="" src="assets/images/print4.jpg">
+                        </div><div class="item">
+                            <img alt="" src="assets/images/print5.jpg">
+                        </div><div class="item">
+                            <img alt="" src="assets/images/print6.jpg">
+                        </div><div class="item active">
+                            <img alt="" src="assets/images/print7.jpg">
+                        </div>
+                    </div>
+                    <a class="left carousel-control" role="button" data-slide="prev" href="#lb-gallery1-82">
+                        <span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" role="button" data-slide="next" href="#lb-gallery1-82">
+                        <span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+
+                    <a class="close" href="#" role="button" data-dismiss="modal">
+                        <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        <span class="sr-only">Close</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="msgbox-1" id="msg-box2-83" style="background-color: rgb(255, 255, 255);">
+    
+
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-sm-8">
+                <h2>O SITE JÁ É PRÉ-OTIMIZADO PARA SEO</h2>
+                
+            </div>
+            <div class="col-sm-4"><a class="btn btn-lg btn-default" href="https://www.google.com.br/intl/pt-BR/adwords/start/benefits/#channel=et-product_page?sourceid=awo&subid=br-ww-et-about-products">CONHEÇA SOBRE O SEO</a></div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="social-buttons2-84" style="background-color: rgb(240, 240, 240);">
+    
+
+    <div class="mbr-section__container container">
+        <div class="mbr-header mbr-header--inline row">
+            <div class="col-sm-4">
+                <h3 class="mbr-header__text">SUA MARCA NAS PRINCIPAIS REDES SOCIAIS.</h3>
+            </div>
+            <div class="mbr-social-icons mbr-social-icons--style-1 col-sm-8"><a class="mbr-social-icons__icon socicon-bg-twitter" title="Twitter" target="_blank" a href ="https://www.twitter.com">
+            <i class="socicon socicon-twitter"></i></a> <a class="mbr-social-icons__icon socicon-bg-facebook" title="Facebook" target="_blank" a href="https://www.facebook.com">
+            <i class="socicon socicon-facebook"></i></a> <a class="mbr-social-icons__icon socicon-bg-google" title="Google+" target="_blank" a href="https://plus.google.com">
+            <i class="socicon socicon-google"></i></a> <a class="mbr-social-icons__icon socicon-bg-youtube" title="YouTube" target="_blank" href="https://www.youtube.com">
+            <i class="socicon socicon-youtube"></i></a> <a class="mbr-social-icons__icon socicon-bg-instagram" title="Instagram" target="_blank" href="https://www.instagran.com">
+            <i class="socicon socicon-instagram"></i></a> <a class="mbr-social-icons__icon socicon-bg-pinterest" title="Pinterest" target="_blank" href="https://www.pinterest.com">
+            <i class="socicon socicon-pinterest"></i></a>  <a class="mbr-social-icons__icon socicon-bg-behance" title="Behance" target="_blank" href="https://www.behance.com">
+            <i class="socicon socicon-behance"></i></a> <a class="mbr-social-icons__icon socicon-bg-tumblr" title="Tumblr" target="_blank" href="https://www.tumblr.com">
+            <i class="socicon socicon-tumblr"></i></a> <a class="mbr-social-icons__icon socicon-bg-linkedin" title="LinkedIn" target="_blank" href="https://www.linkedin.com">
+            <i class="socicon socicon-linkedin"></i></a> <a class="mbr-social-icons__icon socicon-bg-android" title="Google Play" target="_blank" href="https://play.google.com">
+            <i class="socicon socicon-android"></i></a></div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="content-2 col-4" id="features1-85" style="background-color: rgb(255, 255, 255);">
+    
+    <div class="container">
+        <div class="row">
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/workflow-350x350-59.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>ALTA TECNOLOGIA</h3>
+                            <p>Segundo o eMarketer estima-se que no Brasil existam 278 milhões de conexões mobile, ou seja, 137% da população, além disso o mercado voltado ao m-commerce (comércio eletrônico via mobile) para 67% dos brasileiros em 2014.Conheça o Serviço!</p>
+                        </div>
+                        <p class="group"><a href="http://ghdsites.net/politicos" class="btn btn-default">VEJA</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/chrome-remote-desktop-350x350-23.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>WEB SITES RESPONSIVOS</h3>
+                          <!--  <p>Etiam lacinia volutpat magna, sed lobortis risus egestas in. Nunc fringilla urna ac libero venenatis molestie. Curabitur molestie mi quis mauris convallis aliquet. Cras pretium sapien mi, sed sagittis est ultrices at.</p> -->
+                            <p>Seu site precisa ter alto desempenho, mostrar as informações adequadas e de maneira organizada para estes dispositivos. Desenvolvemos sites para SmartPhones e Tablets. Tudo pensando na facilidade e conforto na navegação.</p>                   
+                        </div>
+                        
+                        <p class="group"><a href="http://webghd.pe.hu/chat/Script/php/app.php?widget-test" class="btn btn-default">VEJA</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/com-350x350-41.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>WEB FONTS</h3>
+                            <p>Diversos tipos de serviços para você e sua empresa, tudo o que você precisa e muito mais, realizamos um projeto completo desde criação de identidade visual,desenvolvimento de sites e marketing digital,conheça nossos serviços.</p>
+                        </div>
+                        <p class="group"><a href="http://ghdsites.net/vendacarro/SCRIPT/" class="btn btn-default">VEJA</a></p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="thumbnail">
+                    <div class="image"><img class="undefined" src="assets/images/calculator-350x350-78.png"></div>
+                    <div class="caption">
+                        <div>
+                            <h3>LOJA VIRTUAL</h3>
+                            <p>Loja virtual completa com administrador, meios de pagamento, cálculo de frete, redes sociais e funcionalidades específicas para o objetivo do cliente. Opção de integração com ERP.Entre em contato para maiores informações.</p>
+                        </div>
+                        <p class="group"><a href="http://ghdsites.net/vendascarro/Script/" class="btn btn-default">VEJA</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="pricing-table-1 col-4" id="pricing-table1-86" style="background-color: rgb(240, 240, 240);">
+    
+
+    <div class="container">
+        <div class="row">
+            <div>
+                <div class="plan green">
+                    <h3>STANDARD</h3>
+                    <p class="price">
+                        <strong><sup>R$</sup><span>650</span></strong>
+                        <small></small>
+                    </p>
+                    <div><ul><li><strong>SEO - Otimização básica para o sistema de busca do Google (resultado);</strong></li><li><strong> Padrão W3C (padrão internacional) para construção dos projetos (qualidade);</strong> </li><li><strong> Navegação garantida nos principais navegadores (navegabilidade);    </strong> </li></ul></div>
+                    <p><a href="contato.html" class="btn btn-success">PEÇA AGORA</a></p>
+                </div>
+            </div>
+            <div>
+                <div class="plan orange">
+                    <h3>BUSINESS</h3>
+                    <p class="price">
+                        <strong><sup>R$</sup><span>850</span></strong>
+                        <small></small>
+                    </p>
+                    <div><ul><li><strong>Todas Vantagens da opção anterior e mais...</strong></li><li><strong>Responsividade para acessos via tablets e smartphones* (acessibilidade).</strong> </li><li><strong>Sistema de gerenciamento de conteúdo (liberdade de atualização); <br> <br></strong> </li></ul></div>
+                    <p><a href="contato.html" class="btn btn-success">PEÇA AGORA</a></p>
+                </div>
+            </div>
+            <div>
+                <div class="plan favorite">
+                    <h3>PREMIUM</h3>
+                    <p class="price">
+                        <strong><sup>R$</sup><span>1700</span></strong>
+                        <small></small>
+                    </p>
+                    <div><ul><li><strong>Todas Vantagens da opção anterior e mais...</strong></li><li><strong>Envio automático de informativos sobre as etapas dos projetos (facilidade);</strong> </li><li><strong>Atendimento/suporte/manutenção após entrega do projeto (atendimento).<br><br></strong> </li></ul></div>
+                    <p><a href="contato.html" class="btn btn-success">PEÇA AGORA</a></p>
+                </div>
+            </div>
+            <div>
+                <div class="plan blue">
+                    <h3>ULTIMATE</h3>
+                    <p class="price">
+                        <strong><sup>R$</sup><span>2500</span></strong>
+                        <small></small>
+                    </p>
+                    <div><ul><li><strong>Todas Vantagens da opção anterior e mais...</strong></li><li><strong>Personalização do layout com sua logo, banner dinâmico 3 telas e mais. Incluso criação da logo.</strong></li><li><strong>Chat online, cadastro em buscadores, domínio, hospedagem e e-mail personalizado.</strong></li></ul></div>
+                    <p><a href="contato.html" class="btn btn-success">PEÇA AGORA</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="social-buttons1-87" style="background-color: rgb(247, 218, 100);">
+    
+
+    <div class="mbr-section__container container">
+        <div class="mbr-header mbr-header--inline row">
+            <div class="col-sm-4">
+                <h3 class="mbr-header__text">Compartilhe essa página nas redes sociais!</h3>
+            </div>
+            <div class="mbr-social-icons col-sm-8">
+                <div class="mbr-social-likes social-likes_style-1" data-counters="true">
+                    <div class="mbr-social-icons__icon social-likes__icon facebook socicon-bg-facebook" title="Share link on Facebook">
+                        <i class="socicon socicon-facebook"></i>
+                        
+                    </div>
+                    <div class="mbr-social-icons__icon social-likes__icon twitter socicon-bg-twitter" title="Share link on Twitter">
+                        <i class="socicon socicon-twitter"></i>
+                        
+                    </div>
+                    <div class="mbr-social-icons__icon social-likes__icon plusone socicon-bg-google" title="Share link on Google+">
+                        <i class="socicon socicon-google"></i>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="testimonials1-88" style="background-color: rgb(255, 255, 255);">
+    <div>
+        
+        <div class="mbr-section__container mbr-section__container--std-padding container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 class="mbr-section__header">DEPOIMENTOS DE ALGUNS CLIENTES</h2>
+                    <ul class="mbr-reviews mbr-reviews--wysiwyg row">
+                        <li class="mbr-reviews__item col-sm-6 col-md-4">
+                            <div class="mbr-reviews__text"><p class="mbr-reviews__p">“Excelente trabalho desenvolvido pela GHD Sistemas Web, estamos satisfeitos com a entrega do site e com a eficiência e retorno rápido da Central de Atendimento.. ”</p></div>
+                            <div class="mbr-reviews__author mbr-reviews__author--short">
+                                <div class="mbr-reviews__author-name">Fernando Almeida</div>
+                                <div class="mbr-reviews__author-bio">Cliente</div>
+                            </div>
+                        </li><li class="mbr-reviews__item col-sm-6 col-md-4">
+                            <div class="mbr-reviews__text"><p class="mbr-reviews__p">“A GHD tem sido fundamental ao me ajudar a programar e executar campanhas de anúncios em diferentes plataformas. Sem eles com certeza todo crescimento da minha empresa seria muito mais difícil. Desde a atenção ao detalhe até qualidade de todo trabalho, o trabalho deles tem sido impecável e com certeza são e vão ser responsáveis pelo crescimento dos meus negócios nos próximos anos.”</p></div>
+                            <div class="mbr-reviews__author mbr-reviews__author--short">
+                                <div class="mbr-reviews__author-name">Carlos Augusto</div>
+                                <div class="mbr-reviews__author-bio">Cliente</div>
+                            </div>
+                        </li><li class="mbr-reviews__item col-sm-6 col-md-4">
+                            <div class="mbr-reviews__text"><p class="mbr-reviews__p">“Para mim o diferencial da GHD Sistemas Web é que contratamos quem realmente faz, e não quem só estuda…. Estar nas trincheiras faz a diferença e um ponto positivo que eu posso apontar é a velocidade e clareza da comunicação. É bom trabalhar com quem fala a mesma língua. ”</p></div>
+                            <div class="mbr-reviews__author mbr-reviews__author--short">
+                                <div class="mbr-reviews__author-name">Marcos Paulo</div>
+                                <div class="mbr-reviews__author-bio">Cliente</div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="form1-89" style="background-color: rgb(239, 239, 239);">
+    
+    <div class="mbr-section__container mbr-section__container--std-padding container">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-8 col-sm-offset-2" data-form-type="formoid">
+                        <div class="mbr-header mbr-header--center mbr-header--std-padding">
+                            <h2 class="mbr-header__text">FORMULÁRIO DE CONTATO</h2>
+                        </div>
+                        <div data-form-alert="true"></div>
+                          
+
+
+                          <form action="envio.php" method="post" data-form-title="CONTACT FORM">
+                            <input type="hidden" value="" data-form-email="true">
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="Name" required="" placeholder="Nome*" data-form-field="Name">
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" name="Email" required="" placeholder="Email*" data-form-field="Email">
+                            </div>
+                            <div class="form-group">
+                                <input type="tel" class="form-control" name="Phone" placeholder="Telefone" data-form-field="Phone">
+                            </div>
+                            <div class="form-group">
+                                <textarea class="form-control" name="Message" placeholder="Mensagem" rows="7" data-form-field="Message"></textarea>
+                            </div>
+                            <div class="mbr-buttons mbr-buttons--right"><button type="submit" class="mbr-buttons__btn btn btn-lg btn-warning">ENVIAR</button></div>
+                        </form>
+                    
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="contacts2-90" style="background-color: rgb(60, 60, 60);">
+    
+    
+    
+    <div class="mbr-section__container container">
+        <div class="mbr-contacts mbr-contacts--wysiwyg row">
+            <div class="col-sm-6">
+                <figure                        div class="mbr-figure mbr-figure--wysiwyg mbr-figure--full-width mbr-figure--no-bg">
+                                            <!--   <div class="mbr-figure__map mbr-figure__map--short mbr-google-map">
+                                               <p class="mbr-google-map__marker" data-coordinates="40.748384,-73.9854792"></p>
+                                               </div>   -->
+                    
+                                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3685.517861559583!2d-44.19205958486138!3d-22.522265729925543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9e9bc0682973d7%3A0x9614489577100a3f!2sR.+Claudionor+Cabral+Franco+-+Vila+Nova%2C+Barra+Mansa+-+RJ!5e0!3m2!1spt-BR!2sbr!4v1468968466695" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    
+                    
+                </figure>
+            </div> 
+            
+            
+            
+            
+            
+            <div class="col-sm-6">
+                <div class="row">
+                    <div class="col-sm-5 col-sm-offset-1">
+                        <p class="mbr-contacts__text"><strong>ENDEREÇO</strong><br>
+Rua Claudionor Cabral Franco-2207<br>
+Vila Nova-Barra Mansa<br>
+<p>Rio de Janeiro,BRASIL.</p>
+<strong>CONTATOS</strong><br>
+Email: guillerbrasilrj@gmail.com<br>
+Telefone: +55 (24) 3322-9067
+<p> Cel: (24) 998358565<br></p>
+</p>
+                    </div>
+                    
+
+                    <div class="col-sm-6"><p class="mbr-contacts__text"><strong>Acesse Alguns Projetos Exemplo:<br><br>
+                    </strong></p><ul class="mbr-contacts__list"><li><a href="http://ghdsites.net/vendascarro/Script/" class="text-gray">Agência Venda de Carros 1</a><a class="mbr-contacts__link text-gray" href="http://webgh.esy.es/AutoRed/Script/"></a></li><li><a href="http://ghdsites.net/vendacarro/SCRIPT/" class="text-gray">Agência Venda de Carros 2</a><a class="mbr-contacts__link text-gray" href="http://ghdsites.net/vendacarro/SCRIPT/"></a></li><li><a href="http://webghd.pe.hu/chat/Script/php/app.php?widget-test" class="text-gray">Sistema de Mensagem Chat Online</a></li><li><a href="http://ghdsites.net/politicos/site/" class="text-gray">Sites para Politicos</a></li><li><br></li></ul></div>
+                
+                </div>
+           
+
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="mbr-section mbr-section--relative mbr-section--fixed-size" id="footer1-91" style="background-color: rgb(68, 68, 68);">
+    
+    <div class="mbr-section__container container">
+        <div class="mbr-footer mbr-footer--wysiwyg row">
+            <div class="col-sm-12">
+                <p class="mbr-footer__copyright"></p><p>Copyright (c) 2016 GHD Sistemas Web. </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+  <script src="assets/jquery/jquery.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+  <script src="assets/smooth-scroll/SmoothScroll.js"></script>
+  <script src="assets/jarallax/jarallax.js"></script>
+  <script src="assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/masonry/masonry.pkgd.min.js"></script>
+  <script src="assets/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/social-likes/social-likes.js"></script>
+  <script src="assets/mobirise/js/script.js"></script>
+  <script src="assets/mobirise-gallery/script.js"></script>
+  
+  
+
+
+
+
+<script type="text/javascript" src="http://ghdsites.net/chat1/Script/php/app.php?widget-init.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85546213-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  
+</body>
+</html>
