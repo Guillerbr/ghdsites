@@ -22,7 +22,7 @@ $message=$_POST ['Message'];
 
 <?php
 
-$to = "guillerbrasilrj@gmail.com";
+$to = "EMAIL HERE"; //config email to send
 $subject = "$email";
 $message = "Nome: $name   E-mail: $email    Telefone:$phone    
  Mensagem:  $message";
